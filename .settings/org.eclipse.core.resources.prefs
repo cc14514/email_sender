@@ -1,4 +1,4 @@
 eclipse.preferences.version=1
 encoding//service/core_service/CoreService.py=utf8
 encoding/config.py=utf8
-encoding/main.py=utf8
+encoding/email_sender_main.py=utf8
